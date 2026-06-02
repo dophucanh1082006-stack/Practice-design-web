@@ -49,6 +49,14 @@ ul li {
   font-family: sans-serif;
 }
 
+ul li:hover {
+   cursor:pointer
+}
+
+ul li:active {
+   color: aqua;
+}
+
 main {
   display: flex;
   justify-content: center;
